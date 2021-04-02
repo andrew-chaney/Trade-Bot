@@ -1,0 +1,5 @@
+# For Alpaca API
+API_KEY = 'ENTER YOUR API KEY HERE'
+API_SECRET_KEY = 'ENTER YOUR API SECRET KEY HERE'
+
+highest_price = {}
