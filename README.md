@@ -17,5 +17,3 @@ I will, however discuss some things that I would do differently if I were to do 
 5. I would implement more webscraping and automation that would find more stock tickers and update which ones should be analyzed.
 
 What I did like about this project is that I learned a lot about optimization. Having only 200 API calls a minute while having 100+ tickers to analyze in each cycle forced me to optimize data analyzations. I remember on the first draft of the program I had an individual API call for each piece of data (price, history, etc.), and eventually it got to the point where my functions would parse through a single dataset provided by a single API call for each individual ticker. I also learned a lot about datasets and API calls, learning how to manipulate them to suit my programs needs.
-
-This is a project that I cringe looking back on because of how messy the code is, but it is also a project that taught me some invaluable lessons that have made me a better programmer.
